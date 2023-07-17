@@ -1,0 +1,15 @@
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\bin\Debug\net7.0\Questao12teste.exe
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\bin\Debug\net7.0\Questao12teste.deps.json
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\bin\Debug\net7.0\Questao12teste.runtimeconfig.json
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\bin\Debug\net7.0\Questao12teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\bin\Debug\net7.0\Questao12teste.pdb
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.csproj.AssemblyReference.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.AssemblyInfoInputs.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.AssemblyInfo.cs
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.csproj.CoreCompileInputs.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\refint\Questao12teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.pdb
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\Questao12teste.genruntimeconfig.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\Questao12teste\obj\Debug\net7.0\ref\Questao12teste.dll

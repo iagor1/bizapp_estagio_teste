@@ -1,0 +1,15 @@
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\bin\Debug\net7.0\questao9teste.exe
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\bin\Debug\net7.0\questao9teste.deps.json
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\bin\Debug\net7.0\questao9teste.runtimeconfig.json
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\bin\Debug\net7.0\questao9teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\bin\Debug\net7.0\questao9teste.pdb
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.csproj.AssemblyReference.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.AssemblyInfoInputs.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.AssemblyInfo.cs
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.csproj.CoreCompileInputs.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\refint\questao9teste.dll
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.pdb
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\questao9teste.genruntimeconfig.cache
+C:\Users\iagor\OneDrive\Área de Trabalho\code\Csharp\questao9teste\obj\Debug\net7.0\ref\questao9teste.dll
